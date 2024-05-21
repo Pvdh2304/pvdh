@@ -1,1 +1,21 @@
+getgenv().Config = {
+    ["AutoReplay"] = true,
+    ["AutoJoinMatch"] = true,
+    ["TPLobbyIfPlayer"] = true,
+    ["SelectMap"] = "TimeFactory (Rewind)",
+    ["AutoVoteDifficulty"] = "true",
+    ["SelectDifficulty"] = "Nightmare",
+    ["SelectMacro"] = "pvdh",
+    ["AutoSkip"] = true,
+    ["DeleteMap"] = true,
+    ["PlayMacro"] = true,
+    ["AutoSave"] = true,
+    ["BoostFPS"] = true,
+    ["AutoClaimQuest"] = true,
+    ["WhiteScreen"] = true,
+    ["DelayJoin"] = "5",
+    ["PlacingFailsafe"] = true,
+    ["WebhookURL"] = "https://discord.com/api/webhooks/1207677192859942958/p79RWeRdSdutJN6Cd2So4VEt_iNYcFhp01I6kup2lncFPZZ9OlEE2ZjorCw-0oJA24an",
+    ["WH_MatchComplete"] = true,
+}
 loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()
