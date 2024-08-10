@@ -1,1 +1,1 @@
-{"mathietbi": "pvdhdzvl:3", premium": 1, "server": true}
+{"mathietbi": "pvdhdzvl3", premium":"1", "server": true}
