@@ -1,6 +1,6 @@
 {
     "mathietbi": "a7a6a0f186",
-    "premium": 1,
+    "premium": true,
     "server": true,
     "block": false,
     "cowndown": 0
