@@ -1,7 +1,7 @@
 {
-  "mathietbi": "pvdhdzvcl",
-  "premium": "1",
-  "server": true,
-  "block": false,
-  "cowndown": 0
+    "mathietbi": "a7a6a0f186",
+    "premium": true,
+    "server": true,
+    "block": false,
+    "cowndown": 0
 }
