@@ -1,1 +1,7 @@
-{"mathietbi": "pvdhdzvl3", premium":"1", "server": true}
+{
+  "mathietbi": "pvdhdzvcl",
+  "premium": true,
+  "server": true,
+  "block": false,
+  "cowndown": 0
+}
